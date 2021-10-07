@@ -1,10 +1,3 @@
-/*
-  Contest 2
-  Problem A : Winner
-  Author: Rakesh Kumar, cpp.rakesh(at)gmail.com
-  Date: 14/01/2020
- */
-
 #include <cstdio>
 #include <vector>
 #include <map>
