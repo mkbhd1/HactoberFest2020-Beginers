@@ -1,10 +1,3 @@
-/*
-  Contest 4
-  Problem A : Watermelon
-  Author: Rakesh Kumar, cpp.rakesh(at)gmail.com
-  Date: 14/01/2020
- */
-
 #include <cstdio>
 
 int main() {
