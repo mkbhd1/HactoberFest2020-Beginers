@@ -1,10 +1,3 @@
-/*
-  Contest: 545
-  Problem D : Queue
-  Author : Rakesh Kumar
-  Date: 07/07/2020
-*/
-
 #include <bits/stdc++.h>
 
 using ll = long long int;
